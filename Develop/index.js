@@ -43,7 +43,7 @@ const questions = () => {
       type: 'list',
       name: 'license',
       message: 'Select licence:',
-      choices: ['Apache','MIT License', 'GNU GPLv3'], //https://choosealicense.com/
+      choices: ['Apache','MIT License'], //https://choosealicense.com/
     },
     {
       type: 'input',
@@ -69,8 +69,6 @@ function writeToFile(fileName, data) {
 function init() {
   questions()
   .then((answers) => writeToFile("README.md", generateMarkdown(answers)))
-  .then(() => console.log('Successfully wrote to README.md'))
-  .catch((err) => console.error(err));
 };
 
 // Function call to initialize app

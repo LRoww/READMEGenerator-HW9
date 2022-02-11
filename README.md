@@ -17,7 +17,7 @@
 
   ## Usage 
   
-  [Video Link](soon!)
+  [Video Link](https://watch.screencastify.com/v/fBFaWVpRl1i6IRVMOyvS)
 
   ## Questions
   Github Username: LRoww

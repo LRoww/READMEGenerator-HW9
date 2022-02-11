@@ -12,16 +12,12 @@
   - [License](#license)
 
   ## Installation
-  use npm install to install dependencies
+  - Open console in program folder
+  - Use `npm install` to install dependencies 
 
   ## Usage 
-  useage to create this readme: dsfljshdfldsfg
-
-  ## Credits
-  ME!
-
-  ## Tests
-  do this: sdff
+  
+  [Video Link](soon!)
 
   ## Questions
   Github Username: LRoww

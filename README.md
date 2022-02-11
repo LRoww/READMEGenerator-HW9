@@ -2,7 +2,7 @@
   ![license badge](https://img.shields.io/badge/license-Apache-blue)
 
   ## Discription
-  This application generates a README.md file based on user input. This project aims to spped up the  
+  This application generates a README.md file based on user input. This project aims to help developers quickly generate their README either as a finished product or as a template to add more specialized information to. 
 
   ## Table of Contents
   - [Installation](#installation)
@@ -12,7 +12,7 @@
   - [License](#license)
 
   ## Installation
-  user must use npm install to install dependencies
+  use npm install to install dependencies
 
   ## Usage 
   useage to create this readme: dsfljshdfldsfg

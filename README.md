@@ -7,8 +7,6 @@
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
-  - [Tests](#tests)
   - [License](#license)
 
   ## Installation
@@ -16,15 +14,8 @@
   - Use `npm install` to install dependencies 
 
   ## Usage 
-  
   [Video Link](https://watch.screencastify.com/v/fBFaWVpRl1i6IRVMOyvS)
 
-  ## Questions
-  Github Username: LRoww
-
-  [Github Profile](https://github.com/LRoww)
-
-  [Email](mailto:laurarowe96@gmail.com)
 
   ## License
   Copyright 2022 LRoww

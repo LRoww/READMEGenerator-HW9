@@ -43,7 +43,7 @@ const questions = () => {
       type: 'list',
       name: 'license',
       message: 'Select licence:',
-      choices: ['Apache','MIT License'], //https://choosealicense.com/
+      choices: ['Apache','MIT','no license'], //https://choosealicense.com/
     },
     {
       type: 'input',
